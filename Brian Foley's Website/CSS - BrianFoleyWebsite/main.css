@@ -1,0 +1,15 @@
+
+/* header section */
+.header {
+  background: black;
+}
+
+ .header h1 {
+  color: blue;
+}
+
+/*Jumbotron Section */
+
+.jumbotron {
+  background: url(img/bf_layback.jpg);
+}

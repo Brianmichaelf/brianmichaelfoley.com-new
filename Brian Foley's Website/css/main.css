@@ -1,0 +1,102 @@
+
+/* header section */
+ .header h1 {
+  color: #ffffff;
+  font-family:cursive;
+  text-align: left;
+  font-size: 32px;
+}
+
+.header {
+  background: black;
+  color: white;
+  height: 60px;
+}
+
+.nav-pills {
+  display: inline;
+  float:right;
+  position: absolute;
+  margin: auto;
+  right: 5px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+/* jumbotron section */
+
+.jumbotron {
+  background:url('../img/bf_layback.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 500px;
+  opacity: 0.9;
+}
+
+.jumbotron h2 {
+  margin:auto;
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+  text-shadow: 2px 2px 8px #020202;
+  font-family: cursive;
+  color: #ffffff;
+  padding-top: 100px;
+  padding-bottom: 225px;
+}
+
+/* Supporting Section */
+
+.supporting {
+  text-align: center;
+}
+
+.supporting .container {
+  padding: 10px;
+}
+
+.supporting img {
+  display: block;
+  margin:auto;
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  padding: 1px;
+}
+
+.row {
+  display: inline-block;
+}
+
+.supporting .row {
+  display: inline;
+}
+
+/*Support Section - entrepreneur.html */
+
+.entrepreneur-supporting {
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+  font-size: 16px;
+  font-style: italic;
+}
+
+/* Footer Section */
+
+.footer {
+  background: black;
+  padding-top: 10px;
+}
+
+.footer .container ul {
+  text-align: center;
+}
+
+.footer-list li {
+  display: inline-block;
+  text-decoration: none;
+  padding: 10px;
+}
